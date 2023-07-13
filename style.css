@@ -1,0 +1,32 @@
+#body{
+    background-color: rgb(12, 235, 49);
+}
+h1{
+    background-color: black;
+    color: red;
+    height: 100px;
+text-align: center;
+padding-top: 50px;
+}
+h3{
+    background-color:pink;
+    height: 100px;
+    text-align: center;
+    padding-top: 50px;
+    font-size: xx-large;
+
+}
+div{
+    background-color: red;
+    height: 100px;
+    width: 400px;
+     margin: auto;
+
+}
+p{
+    text-align: center;
+    padding-top: 35px;
+    font-size: x-large;
+    font-weight: bolder;
+
+}
